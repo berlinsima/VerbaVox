@@ -1,0 +1,5 @@
+{
+  "name": "VerbaVox",
+  "description": "An application to transcribe multiple audio files, translate the transcripts into various languages, and generate script-like summaries with key quotes.",
+  "requestFramePermissions": []
+}
